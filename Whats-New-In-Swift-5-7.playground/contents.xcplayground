@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+<pages>
+    <page name='Introduction'/>
+        <page name='if let shorthand for unwrapping optionals'/>
+        <page name='Multi-statement closure type inference'/>
+        <page name='Clock, Instant, and Duration'/>
+        <page name='Regular expressions'/>
+        <page name='Type inference from default expressions'/>
+        <page name='Concurrency in top-level code'/>
+        <page name='Opaque parameter declarations'/>
+        <page name='Structural opaque result types'/>
+        <page name='Unlock existentials for all protocols'/>
+        <page name='Lightweight same-type requirements for primary associated types'/>
+        <page name='Constrained existential types'/>
+        <page name='Distributed actor isolation'/>
+        <page name='buildPartialBlock for result builders'/>
+        <page name='Implicitly opened existentials'/>
+        <page name='Unavailable from async attribute'/>
+    </pages>
+</playground>
